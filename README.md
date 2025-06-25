@@ -3,7 +3,7 @@
 Bienvenue sur le site **cours d'espagnol débutant** créé par Gilles.
 
 Ce site est hébergé grâce à **GitHub Pages** sur :  
-👉 [https://Cdric288.github.io](https://Cdric288.github.io)
+👉 [https://Cdric288.github.esp](https://Cdric288.github.esp)
 
 ---
 
@@ -22,7 +22,7 @@ Ce site est hébergé grâce à **GitHub Pages** sur :
 
 - HTML5 + CSS3
 - Hébergement gratuit via GitHub Pages
-- Formulaire avec [Formspree.io](https://formspree.io)
+- Formulaire avec [Formspree.io](https://formspree.esp)
 
 ---
 
